@@ -33,6 +33,14 @@ The data pipeline is organized into the following layers:
 - **Language:** T-SQL
 
 ---
-
 ## 📂 Project Structure
+
+## 📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project with proper attribution.
+
+## About me
+I am Swasthik M S, a student passionate about Data Engineering, SQL, and Data Warehousing.
+I enjoy building structured data pipelines and applying database concepts to solve real-world data problems.
+This project reflects my hands-on learning with SQL Server and data warehouse design.
 
